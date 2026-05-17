@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">سيرفر الملفات المحلي</string>
+    <string name="server_running">السيرفر يعمل الآن</string>
+    <string name="server_stopped">السيرفر متوقف</string>
+    <string name="start_server">تشغيل السيرفر</string>
+    <string name="stop_server">إيقاف السيرفر</string>
+    <string name="server_url">رابط السيرفر:</string>
+    <string name="settings">الإعدادات</string>
+    <string name="language">اللغة</string>
+    <string name="follow_me">تابعني</string>
+    <string name="follow_on_instagram">تابعني على إنستجرام</string>
+    <string name="scan_qr">امسح رمز QR للوصول للسيرفر</string>
+    <string name="language_en">الإنجليزية</string>
+    <string name="language_ar">العربية</string>
+    <string name="file_explorer">مستعرض الملفات</string>
+    <string name="delete">حذف</string>
+    <string name="share">مشاركة</string>
+    <string name="export">تصدير للهاتف</string>
+    <string name="confirm_delete">هل أنت متأكد من حذف هذا الملف؟</string>
+    <string name="cancel">إلغاء</string>
+    <string name="no_files">لا توجد ملفات مرفوعة بعد</string>
+    <string name="file_copied">تم نسخ الملف بنجاح</string>
+    <string name="copy_url">نسخ الرابط</string>
+</resources>
